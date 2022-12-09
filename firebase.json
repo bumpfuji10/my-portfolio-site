@@ -1,0 +1,12 @@
+{
+  "hosting": {
+    "public": "dist",
+    "ignore": [],
+    "reqrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

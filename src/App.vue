@@ -1,17 +1,20 @@
 <template>
   <!--header-->
   <TheHeader text="Yo's Portfolio Site" />
-
   <!--ルーティング-->
   <router-view></router-view>
+  <!--footer-->
+  <TheFooter text="hogeFooter"/>
 </template>
 
 <script>
 import TheHeader from "./components/TheHeader.vue";
+import TheFooter from "./components/TheFooter.vue";
 
 export default {
   components: {
     TheHeader,
+    TheFooter,
   },
 };
 </script>
