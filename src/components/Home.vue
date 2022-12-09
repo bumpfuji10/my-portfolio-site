@@ -1,7 +1,9 @@
 <template>
     <div id="hello">
-      <div class="image">
-        <img src="../assets/logo.png" alt class="" />
+      <div class="text-center">You are on Home page
+        <div class="image">
+          <img src="../assets/logo.png" alt class="" />
+        </div>
       </div>
 
       <div class="about_vue">
@@ -20,5 +22,3 @@
 <script>
 export default {};
 </script>
-
-

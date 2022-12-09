@@ -7,18 +7,20 @@
       <h2 class="profile-title flexbox text-2xl pb-10 font-bold">Who am I ?</h2>
       <dl class="detail-profile-left tracking-wider grid gap-1">
         <dt class="font-bold">趣味：</dt>
-        <dd>💪チーム開発：<a href="https://www.ideee.tech/" alt="" class="text-yellow-400 hover:text-yellow-300 mr-4">ideee</a>（主にバックエンド、UI編集を担当）</dd>
-        <dd>🎮ゲームMeta quest 2 / たまに遊戯王マスターデュエル</dd>
+        <dd>🎮ゲーム：Meta quest 2</dd>
+        <dd>💪チーム開発：<a href="https://www.ideee.tech/" class="text-yellow-400 hover:text-yellow-300 mr-4">ideee</a>(バックエンド・UI編集を担当)</dd>
         <dt class="font-bold">現在：</dt>
-        <dd>👨‍💼職業：会社員（営業職）</dd>
-        <dd>📕業務内容：マンションオーナーへ防災・防犯商材を販売。</dd>
+        <dd>👨‍💼職業：Webエンジニア（バックエンド)</dd>
+        <dd>📕業務内容：レンタルスペースプラットフォームの開発</dd>
+        <dd>✅技術：PHP/Laravel/GraphQL</dd>
         <dt class="font-bold">早くこれになりたい：</dt>
         <dd>🏄‍♀️社会に価値を与えられるエンジニア</dd>
         <dd>🧠事業にコミットできるエンジニア</dd>
         <dd>🤹‍♀️集客や収益構造まで意識されたサービスをつくりたい</dd>
         <dd>🎯自分が書いた1年前のコードを見て、成長を感じれる</dd>
         <dt class="font-bold">余談：</dt>
-        <dd>🏃体操LOVER（たまに小学生〜大学生の演技を審判）</dd>
+        <dd>🤸🏼‍♂️小学校から大学まで体操やってました</dd>
+        <dd>（現在は小学生〜大学生まで、様々な大会で審判してたりします）</dd>
       </dl>
     </div>
     <div class="profile-img flexbox pt-20">

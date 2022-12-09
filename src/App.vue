@@ -4,7 +4,7 @@
   <!--ルーティング-->
   <router-view></router-view>
   <!--footer-->
-  <TheFooter text="hogeFooter"/>
+  <!--<TheFooter text="hogeFooter"/>--->
 </template>
 
 <script>
