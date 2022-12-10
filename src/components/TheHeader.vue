@@ -17,15 +17,15 @@
           </button>
 
           <button class="block mt-2 lg:inline-block lg:mt-0 text-black-200  hover:text-white hover:border-white mr-4 ">
-            <router-link :to="{ path: '/about'}">About</router-link>
+            <router-link :to="{ path: '/about'}">about</router-link>
           </button>
 
           <button class="block mt-2 lg:inline-block lg:mt-0 text-black-200 hover:text-white hover:border-white mr-4">
-            <router-link :to="{ path: '/skill'}">Skill</router-link>
+            <router-link :to="{ path: '/skill'}">skill</router-link>
           </button>
 
           <button class="block mt-2 lg:inline-block lg:mt-0 text-black-200 hover:text-white hover:border-white mr-4">
-            <router-link :to="{ path: '/works'}">Works</router-link>
+            <router-link :to="{ path: '/works'}">portfolio</router-link>
           </button>
 
         </div>

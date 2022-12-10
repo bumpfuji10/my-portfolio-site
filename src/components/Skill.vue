@@ -1,5 +1,5 @@
 <template>
-  <div class="text-center">You are on Skills page</div>
+  <div class="text-center">You are on skill page</div>
 </template>
 
 <script>

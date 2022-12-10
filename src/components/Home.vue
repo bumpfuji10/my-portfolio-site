@@ -1,12 +1,10 @@
 <template>
     <div id="hello">
-      <div class="text-center">You are on Home page
-        <div class="image">
-          <img src="../assets/logo.png" alt class="" />
+      <div class="text-center">Welcome to my portfolio-site!
+        <div class="margin:0 auto">
+          <img class="vue-image" src="../assets/logo.png" />
         </div>
-      </div>
-
-      <div class="about_vue">
+          <div class="about_vue">
         <p>
           These pages are written in
           <a href="https://ja.vuejs.org/" target="_blank" class="icon-link">
@@ -14,6 +12,7 @@
             vue.js
           </a>
         </p>
+      </div>
       </div>
     </div>
   <router-view></router-view>
